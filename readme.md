@@ -1,1 +1,2 @@
 [![Build Status](https://dev.azure.com/samhehir0887/samproject/_apis/build/status/samproject-CI?branchName=master&jobName=Agent%20job%201)](https://dev.azure.com/samhehir0887/samproject/_build/latest?definitionId=19&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=140930df1ab94f4bf63f398d8a96ccc4f13be45c&metric=alert_status)](https://sonarcloud.io/dashboard?id=140930df1ab94f4bf63f398d8a96ccc4f13be45c)
